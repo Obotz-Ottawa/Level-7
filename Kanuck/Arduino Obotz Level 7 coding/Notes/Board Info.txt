@@ -1,0 +1,7 @@
+ATMega328 (TQFP - Thin Quad Flat Package)
+
+1) ATMega328 is a 8 bit microcontroller
+2) It has 32 KB of ROM and 2 KB of RAM
+3) Crystal Oscillator Frequency - 16 Mhz
+4) It has 8 ADC Pins
+5) ATMega has 3 timers and 32 general working registers
